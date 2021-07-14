@@ -63,3 +63,5 @@ public class ObserverA implements Observer {
 	}
 }
 
+
+
