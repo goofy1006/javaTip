@@ -1,0 +1,2 @@
+使用pageHelp和swagger—ui都需要注入bean，configration中配置数据。
+打包发布需要配置足够的jar包
